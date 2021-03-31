@@ -1,2 +1,2 @@
 # algorithm-games
-typical algorithm and litter games
+typical algorithm and little games
